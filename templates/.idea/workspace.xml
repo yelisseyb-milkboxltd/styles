@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc2324a0-4c4c-423a-ba21-7930535abb7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/assets/arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/assets/checkout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/assets/css/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/assets/home-banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/assets/laptop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/assets/live-call-center.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/assets/support.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/assets/take.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/components/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/components/Cancel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/components/Contact.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/components/Cookie.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/components/Footer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/components/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/components/Membership.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/components/Payments.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/components/Privacy.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/components/Receipt.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/components/SignUp.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/components/Support.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New folder/multimedia/src/components/Terms.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/assets/arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/assets/checkout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/assets/css/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/assets/home-banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/assets/laptop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/assets/live-call-center.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/assets/support.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/assets/take.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/components/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/components/Cancel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/components/Contact.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/components/Cookie.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/components/Footer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/components/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/components/Membership.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/components/Payments.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/components/Privacy.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/components/Receipt.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/components/SignUp.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/components/Support.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/components/Terms.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimedia/src/template.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpn/src/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpn/src/assets/css/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpn/src/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpn/src/assets/menu-close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpn/src/assets/menu-open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpn/src/components/Cookie.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpn/src/components/Footer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpn/src/components/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpn/src/components/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpn/src/components/Payments.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpn/src/components/Privacy.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpn/src/components/Send.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpn/src/components/SignUp.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpn/src/components/Support.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpn/src/components/Terms.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/multimedia/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/New folder/multimedia/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/multimedia/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/New folder/multimedia/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/multimedia/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/New folder/multimedia/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/multimedia/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/New folder/multimedia/src/components/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multimedia/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/multimedia/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multimedia/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/multimedia/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multimedia/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/multimedia/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multimedia/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/multimedia/src/components/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vpn/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/vpn/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/src/components/HelloWorld.vue" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vpn" />
+  </component>
+  <component name="ProjectId" id="1WyomNdO7UECkWFw2EElE6OgrF7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\User\Documents\templates\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\templates\templates\src\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\templates" />
+      <recent name="C:\Users\User\Documents\templates\vpn\src\assets" />
+      <recent name="C:\Users\User\Documents\templates\vpn\src" />
+      <recent name="C:\Users\User\Documents\templates\vpn\src\components" />
+      <recent name="C:\Users\User\Documents\templates\templates\src\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc2324a0-4c4c-423a-ba21-7930535abb7f" name="Default Changelist" comment="" />
+      <created>1580131354558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580131354558</updated>
+      <workItem from="1580131358147" duration="6730000" />
+      <workItem from="1580195933039" duration="15265000" />
+      <workItem from="1580222840174" duration="54000" />
+      <workItem from="1580222912684" duration="4747000" />
+      <workItem from="1580282241038" duration="8451000" />
+      <workItem from="1581415693085" duration="765000" />
+      <workItem from="1581416493426" duration="123000" />
+      <workItem from="1581416640222" duration="137000" />
+      <workItem from="1581416991339" duration="341000" />
+      <workItem from="1581417352404" duration="11225000" />
+      <workItem from="1581492397625" duration="6133000" />
+      <workItem from="1583223880921" duration="32000" />
+      <workItem from="1583224243280" duration="660000" />
+      <workItem from="1583918425401" duration="191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/templates/src/App.vue</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/templates/src/components/Footer.vue</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

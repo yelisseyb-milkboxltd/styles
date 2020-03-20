@@ -1,0 +1,51 @@
+<body>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    textarea {
+        box-sizing: border-box;
+        padding: 10px;
+        background: #eee;
+        width: 100%;
+        height: initial;
+        top: 50px;
+        bottom: 10px;
+        position: absolute;
+        white-space: pre-wrap;
+        word-break: break-all;
+    }
+    #cssload, #htmlload, #stepsload {
+        box-sizing: border-box;
+        margin: 10px;
+        width: 50%;
+        position: relative;
+        height: calc(100vh - 20px);
+    }
+</style>
+<div style="display: flex">
+    <div id="htmlload"></div>
+    <div id="stepsload"></div>
+    <div id="cssload"></div>
+</div>
+<script type="text/javascript" src="_steps.js"></script>
+<script type="text/javascript" src="steps.js"></script>
+<script type="text/javascript">
+    var jsonSteps = steps(_steps);
+    document.getElementById('stepsload').innerHTML = '<p>Steps</p><textarea>'+JSON.stringify(jsonSteps, undefined, 1)+'</textarea>'
+</script>
+<script type="text/javascript" src="_cssfile.js"></script>
+<script type="text/javascript" src="cssjson.js"></script>
+<script type="text/javascript">
+    let jsonCss = CSSJSON.toJSON(_cssfile);
+    document.getElementById('cssload').innerHTML = '<p>JSON from CSS</p><textarea>'+JSON.stringify(jsonCss.classes, undefined, 1)+'</textarea>'
+</script>
+<script type="text/javascript" src="_htmlfile.js"></script>
+<script src="htmlparser.js"></script>
+<script src="html2json.js"></script>
+<script>
+    let jsonHtml = html2json(_htmlfile);
+    document.getElementById('htmlload').innerHTML = '<p>JSON from HTML</p><textarea>'+JSON.stringify(jsonHtml.properties.subComponents[0], undefined, 1)+'</textarea>'
+</script>
+</body>
